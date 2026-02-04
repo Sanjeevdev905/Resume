@@ -11,7 +11,7 @@ OR use Live Server in VS Code.
 
 ## 💻 Usage
 
-Edit `index.html` and update:
+Edit `index.html` and replace the placeholder content with your own:
 - Name
 - Skills
 - Experience
