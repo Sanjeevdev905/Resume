@@ -24,12 +24,9 @@ Edit `index.html` and replace the placeholder content with your own:
 ![Experience](screenshots/experience.png)
 ![Contact](screenshots//contact.png)
 
-## 🌐 Live Demo (optional)
+## 🌐 Live Demo 
 
-You can deploy using GitHub Pages.
-
-Steps:
-Settings → Pages → Deploy from main branch
+https://sanjeevdev905.github.io/Resume/
 
 ## 🛠 Tech Used
 
