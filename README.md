@@ -2,14 +2,14 @@
 
 A simple personal resume website built using only HTML.
 
-## 🚀 Setup
+## Setup
 
 1. Download or clone the repo
 2. Open `index.html` in your browser
 
 OR use Live Server in VS Code.
 
-## 💻 Usage
+## Usage
 
 Edit `index.html` and replace the placeholder content with your own:
 - Name
@@ -18,21 +18,21 @@ Edit `index.html` and replace the placeholder content with your own:
 - Projects
 - Contact details
 
-## 📸 Screenshots
+## Screenshots
 
 ![Home](screenshots/home.png)
 ![Experience](screenshots/experience.png)
 ![Contact](screenshots//contact.png)
 
-## 🌐 Live Demo 
+## Live Demo 
 
 https://sanjeevdev905.github.io/Resume/
 
-## 🛠 Tech Used
+## Tech Used
 
 - HTML5
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 .
