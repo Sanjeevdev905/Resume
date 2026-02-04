@@ -22,7 +22,7 @@ Edit `index.html` and replace the placeholder content with your own:
 
 ![Home](screenshots/home.png)
 ![Experience](screenshots/experience.png)
-![Contact](./contact.png)
+![Contact](screenshots//contact.png)
 
 ## 🌐 Live Demo (optional)
 
