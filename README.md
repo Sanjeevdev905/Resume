@@ -20,7 +20,7 @@ Edit `index.html` and replace the placeholder content with your own:
 
 ## 📸 Screenshots
 
-![Home](./home.png)
+![Home](screenshots/home.png)
 ![Experience](experience.png)
 ![Contact](./contact.png)
 
