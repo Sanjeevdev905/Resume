@@ -46,4 +46,4 @@ Settings → Pages → Deploy from main branch
 
 ## Author
 
-Your Name
+Sanjeev Singh
