@@ -20,9 +20,9 @@ Edit `index.html` and update:
 
 ## 📸 Screenshots
 
-![Home]()
-![Experience]()
-![Contact]()
+![Home](./home.png)
+![Experience](experience.png)
+![Contact](./contact.png)
 
 ## 🌐 Live Demo (optional)
 
