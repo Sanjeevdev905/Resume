@@ -21,7 +21,7 @@ Edit `index.html` and replace the placeholder content with your own:
 ## 📸 Screenshots
 
 ![Home](screenshots/home.png)
-![Experience](experience.png)
+![Experience](screenshots/experience.png)
 ![Contact](./contact.png)
 
 ## 🌐 Live Demo (optional)
